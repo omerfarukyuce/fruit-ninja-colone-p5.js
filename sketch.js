@@ -29,8 +29,8 @@ function preload() {
   knifeSound = loadSound('nasty-knife.wav');
   watahSound = loadSound('watah.wav');
   failSound = loadSound('fail.wav');
-  throwSound = loadSound('throw.wav'); // throw.wav yüklendi
-  fireFuseSound = loadSound('fire-fuse.mp4'); // fire-fuse.wav yüklendi
+  throwSound = loadSound('throw.wav');
+  fireFuseSound = loadSound('fire-fuse.mp4');
   fruitTypes = [
     {name: "elma", color: color(255, 0, 0), shape: "ellipse"},
     {name: "kivi", color: color(110, 200, 80), shape: "ellipse"},
