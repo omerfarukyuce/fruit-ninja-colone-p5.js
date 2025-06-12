@@ -89,3 +89,12 @@ fruit-ninja-clone/
 
 
 ---
+## 🛠️ Technologies Used
+
+This project leverages the power and simplicity of modern web technologies:
+
+-   **p5.js:** A phenomenal JavaScript library for creative coding, bringing all the visual magic and animation to life. 🎨
+-   **p5.sound.js:** An essential p5.js add-on, empowering our game with rich and engaging audio experiences. 🎧
+-   **HTML5:** The fundamental language for structuring the web page, providing the canvas for our game. 💻
+
+---
