@@ -54,21 +54,37 @@ A vibrant and addictive web-based game, lovingly crafted and inspired by the cla
 
 The project is meticulously organized into modular JavaScript files, ensuring crystal-clear readability and effortless maintenance.
 fruit-ninja-clone/
+
 ├── index.html # The web page that hosts our game 🌐
+
 ├── sketch.js # The heart of the game: main logic, setup, and draw loop ❤️
+
 ├── fruit.js # Defines the Fruit class - how fruits behave and look 🍎
+
 ├── fruitHalf.js # Defines the FruitHalf class - the magic behind sliced fruits 🔪
+
 ├── bomb.js # Defines the Bomb class - what to avoid at all costs! 💣
+
 ├── gameStates.js # Handles the visual presentation of game screens (menu, how-to-play, game-over) 🎨
+
 ├── utilities.js # Provides handy functions like drawing the epic slice trail and lives display ✨
+
 ├── fruit_ninja_background.png # The beautiful backdrop for our slicing adventures 🏞️
+
 ├── swis_sound.mp3 # The satisfying sound of a perfect slice! 🌬️
+
 ├── bomb.mp3 # The ominous boom of a bomb explosion 💥
+
 ├── nasty-knife.wav # An additional, sharp knife sound effect 🗡️
+
 ├── watah.wav # A cool background or intro sound 💧
+
 ├── fail.wav # The sound of a fruit hitting the floor... 😞
+
 ├── throw.wav # The whoosh of a fruit soaring into view! 🚀
+
 ├── fire-fuse.mp4 # The menacing sizzle of a bomb's fuse 🔥
+
 └── README.md # You're reading it! Project overview and guide 📝
 
 
