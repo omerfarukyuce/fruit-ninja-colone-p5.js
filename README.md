@@ -98,3 +98,16 @@ This project leverages the power and simplicity of modern web technologies:
 -   **HTML5:** The fundamental language for structuring the web page, providing the canvas for our game. 💻
 
 ---
+## ⚖️ License
+
+This project is proudly open source and distributed under the **MIT License**. Feel free to fork, modify, and share!
+---
+
+## 💖 Credits
+
+-   **Developed with Passion by:** [Ömer Faruk YÜCE]
+-   **Inspired by:** The timeless joy of Fruit Ninja.
+-   **Sound Effects Sourced From:** [FreeSound.org.]
+-   **Background Image From:** [[Mention specific source if applicable.](https://www.deviantart.com/)]
+
+---
