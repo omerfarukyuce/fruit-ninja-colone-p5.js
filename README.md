@@ -108,6 +108,8 @@ This project is proudly open source and distributed under the **MIT License**. F
 -   **Developed with Passion by:** [Ömer Faruk YÜCE]
 -   **Inspired by:** The timeless joy of Fruit Ninja.
 -   **Sound Effects Sourced From:** [FreeSound.org.]
--   **Background Image From:** [[Mention specific source if applicable.](https://www.deviantart.com/)]
+-   **Background Image From:** [https://www.deviantart.com/](https://www.deviantart.com/denzelabaya/art/Mobile-Fruit-Ninja-Basic-Dojo-1820x1024-1144103533)
 
 ---
+
+p5.js link: [Fruit Ninja Colobe](https://editor.p5js.org/Omer_Faruk_Yuce/sketches/V5q7nJkJj)
