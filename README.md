@@ -112,4 +112,4 @@ This project is proudly open source and distributed under the **MIT License**. F
 
 ---
 
-p5.js link: [Fruit Ninja Colobe](https://editor.p5js.org/Omer_Faruk_Yuce/sketches/V5q7nJkJj)
+p5.js link: [Fruit Ninja Colone](https://editor.p5js.org/Omer_Faruk_Yuce/sketches/V5q7nJkJj)
