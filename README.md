@@ -62,7 +62,7 @@ A vibrant and addictive web-based game, lovingly crafted and inspired by the cla
 ![Gameplay](screenshots/gameplay.png)
 
 ### 🎮 Gameplay 2
-![Gameplay 2](screenshots/gameplay 2.png)
+![Gameplay 2](screenshots/gameplay2.png)
 
 ### 🔚 Game Over
 ![Game Over](screenshots/gameOver.png)
