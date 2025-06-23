@@ -50,6 +50,24 @@ A vibrant and addictive web-based game, lovingly crafted and inspired by the cla
     -   Once "GAME OVER" flashes, a simple **click anywhere on the screen** will reset your score and lives, throwing you back into the slicing frenzy!
 
 ---
+## 📸 Screenshots
+
+### 🏠 Main Menu
+![Main Menu](screenshots/menu.png)
+
+### ❓🎮 How to Play
+![How to Play](screenshots/howToPlay.png)
+
+### 🎮 Gameplay
+![Gameplay](screenshots/gameplay.png)
+
+### 🎮 Gameplay 2
+![Gameplay 2](screenshots/gameplay 2.png)
+
+### 🔚 Game Over
+![Game Over](screenshots/gameOver.png)
+
+---
 ## 📁 File Structure
 
 The project is meticulously organized into modular JavaScript files, ensuring crystal-clear readability and effortless maintenance.
